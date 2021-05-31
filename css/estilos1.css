@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/GASTRONOMIA1.JPEG);
+    background-size: 110%;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 400%;
+    font-family: monospace;
+}
+
+a.vinculos {
+    font-size: 500px; /* el tamaño (en píxels)*/
+}
+
+p.aviso {
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    justify-content: center; 
+  }

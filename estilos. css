@@ -1,0 +1,13 @@
+Body{
+     Background-kmage:
+     Url(../img/mexicodesconocido.com);
+     Background-size: 137%
+}
+H1{
+    Text-aling:center;
+    Width="400"
+    Height"341"
+}
+H2{
+     Span-class:naranja-azul;
+}

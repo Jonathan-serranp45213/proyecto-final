@@ -1,0 +1,11 @@
+Body{
+Backgroup-image
+Url(../img/guanajuato.mx);
+}
+H1{
+Width:"400"
+Height:"341"
+}
+H2{
+Span-class:blanco-morado
+}

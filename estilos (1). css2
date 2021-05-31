@@ -1,0 +1,13 @@
+Body{
+      Backgroup-image;
+Url(../img/timeoutmexico.mx);
+      Backgroup
+}
+H1{
+Text-aling:center
+Width="400"
+Height="341"
+}
+H2{
+Span-class:blanco-verde
+}
